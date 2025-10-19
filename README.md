@@ -4,9 +4,9 @@
 
 I’m a **Full Stack Software Engineer** who loves building things that make a difference — from dynamic web platforms to intelligent systems that solve real-world problems. I’m passionate about creating seamless digital experiences and writing clean, maintainable code that scales effortlessly.
 
-### 💡 What Drives Me
+<!-- ### 💡 What Drives Me
 
-I believe great engineering is about more than just code — it’s about curiosity, problem-solving, and impact. I enjoy turning complex ideas into elegant, practical solutions that users actually love. Collaboration, innovation, and continuous learning are at the core of how I work.
+I believe great engineering is about more than just code — it’s about curiosity, problem-solving, and impact. I enjoy turning complex ideas into elegant, practical solutions that users actually love. Collaboration, innovation, and continuous learning are at the core of how I work. -->
 
 <!-- ### ⚙️ What I Focus On
 
