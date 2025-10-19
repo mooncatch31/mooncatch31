@@ -1,4 +1,4 @@
-# 👋 Hi, there !
+# 👋 Hi, there, I am MoonCatcher!
 
 ---
 
@@ -19,6 +19,33 @@ I believe great engineering is about more than just code — it’s about curios
 ### 🧭 What I’m Exploring
 
 I’m currently diving deeper into modern architecture patterns, AI-driven automation, and ways to make digital systems smarter and more adaptive. I’m especially interested in how technology can simplify complex challenges and empower users.
+
+### 🧰 Technologies I Know  
+
+#### 🎨 Frontend  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,vue,angular,redux,tailwind,html,css" />
+</p>
+
+#### ⚙️ Backend  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask,fastapi" />
+</p>
+
+#### 🗃️ Database  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
+</p>
+
+#### ☁️ Cloud & DevOps  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,firebase,docker,linux" />
+</p>
+
+#### 🛠️ Tools & Collaboration  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jest,postman,figma" />
+</p>
 
 ### 🌱 Beyond Code
 
