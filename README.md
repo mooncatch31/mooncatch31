@@ -8,7 +8,7 @@ I’m a **Full Stack Software Engineer** who loves building things that make a d
 
 I believe great engineering is about more than just code — it’s about curiosity, problem-solving, and impact. I enjoy turning complex ideas into elegant, practical solutions that users actually love. Collaboration, innovation, and continuous learning are at the core of how I work.
 
-### ⚙️ What I Focus On
+<!-- ### ⚙️ What I Focus On
 
 * Designing thoughtful, user-centered applications
 * Building efficient, reliable systems that scale
@@ -18,7 +18,7 @@ I believe great engineering is about more than just code — it’s about curios
 
 ### 🧭 What I’m Exploring
 
-I’m currently diving deeper into modern architecture patterns, AI-driven automation, and ways to make digital systems smarter and more adaptive. I’m especially interested in how technology can simplify complex challenges and empower users.
+I’m currently diving deeper into modern architecture patterns, AI-driven automation, and ways to make digital systems smarter and more adaptive. I’m especially interested in how technology can simplify complex challenges and empower users. -->
 
 ### 🧰 Technologies I Know  
 
