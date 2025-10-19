@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Jonathan Miller**
+<!-- # 👋 Hi, I'm **Jonathan Miller** -->
 
 ---
 
