@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm **Jonathan Miller**
 
-<!--
-**mooncatch31/mooncatch31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+I’m a **Full Stack Software Engineer** who loves building things that make a difference — from dynamic web platforms to intelligent systems that solve real-world problems. I’m passionate about creating seamless digital experiences and writing clean, maintainable code that scales effortlessly.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💡 What Drives Me
+
+I believe great engineering is about more than just code — it’s about curiosity, problem-solving, and impact. I enjoy turning complex ideas into elegant, practical solutions that users actually love. Collaboration, innovation, and continuous learning are at the core of how I work.
+
+---
+
+### ⚙️ What I Focus On
+
+* Designing thoughtful, user-centered applications
+* Building efficient, reliable systems that scale
+* Writing code that’s simple, clear, and purposeful
+* Automating workflows and improving performance wherever possible
+* Staying ahead of new technologies and emerging trends
+
+---
+
+### 🧭 What I’m Exploring
+
+I’m currently diving deeper into modern architecture patterns, AI-driven automation, and ways to make digital systems smarter and more adaptive. I’m especially interested in how technology can simplify complex challenges and empower users.
+
+---
+
+### 🌱 Beyond Code
+
+Outside of development, I enjoy mentoring aspiring engineers, optimizing workflows, and exploring creative problem-solving approaches. I’m always looking for new opportunities to grow, collaborate, and make technology more human.
+
+---
+
+<!-- ### 📫 Let’s Connect
+
+* 🌐 [Portfolio / Website](#)
+* 💼 [LinkedIn](#)
+* 🧑‍💻 [Email Me](#)
+* 🐙 [GitHub](#) -->
+
+
