@@ -29,7 +29,7 @@ I’m currently diving deeper into modern architecture patterns, AI-driven autom
 
 #### ⚙️ Backend  
 <p align="left">
-  <img height="35" src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask,fastapi,php,laravel" />
+  <img height="35" src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask,fastapi,php,laravel,ruby,rust" />
 </p>
 
 #### 🗃️ Database  
