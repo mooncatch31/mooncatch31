@@ -29,12 +29,12 @@ I’m currently diving deeper into modern architecture patterns, AI-driven autom
 
 #### ⚙️ Backend  
 <p align="left">
-  <img height="35" src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask,fastapi,php,laravel,ruby,rust" />
+  <img height="35" src="https://skillicons.dev/icons?i=java,nodejs,python,django,flask,php,laravel,go,ruby,rust" />
 </p>
 
 #### 🗃️ Database  
 <p align="left">
-  <img height="35" src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
+  <img height="35" src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,dynamodb" />
 </p>
 
 #### ☁️ Cloud & DevOps  
